@@ -43,3 +43,37 @@ p{
     margin-left: 40px;
     margin-right: 40px;
 }
+
+#navigation{
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 40px;
+}
+
+#navigation a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #5757a0;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: lavender;
+    border-bottom: 5px solid #5757a0;
+}
+
+#navigation li{
+    display: inline;
+    margin-right: 5px;
+}
+
+#country-list{
+    margin-left: 50px;
+    background-color: rgba(100, 0, 0, 0.5);
+}
+
+.contact{
+    margin-top: 100px;
+}
+
+.contact p{
+    font-size: 20px
+}
